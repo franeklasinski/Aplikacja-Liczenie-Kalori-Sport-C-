@@ -1,0 +1,100 @@
+F:\Semestr_5\Projekt Kalorycznosc\Projekt_klaorie\obj\Debug\Projekt_klaorie.csproj.AssemblyReference.cache
+F:\Semestr_5\Projekt Kalorycznosc\Projekt_klaorie\obj\Debug\Projekt_klaorie.Form1.resources
+F:\Semestr_5\Projekt Kalorycznosc\Projekt_klaorie\obj\Debug\Projekt_klaorie.Properties.Resources.resources
+F:\Semestr_5\Projekt Kalorycznosc\Projekt_klaorie\obj\Debug\Projekt_klaorie.csproj.GenerateResource.cache
+F:\Semestr_5\Projekt Kalorycznosc\Projekt_klaorie\obj\Debug\Projekt_klaorie.csproj.CoreCompileInputs.cache
+F:\Semestr_5\Projekt Kalorycznosc\Projekt_klaorie\bin\Debug\x86\sqlite3.dll
+F:\Semestr_5\Projekt Kalorycznosc\Projekt_klaorie\bin\Debug\x64\sqlite3.dll
+F:\Semestr_5\Projekt Kalorycznosc\Projekt_klaorie\bin\Debug\Projekt_klaorie.exe.config
+F:\Semestr_5\Projekt Kalorycznosc\Projekt_klaorie\bin\Debug\Projekt_klaorie.exe
+F:\Semestr_5\Projekt Kalorycznosc\Projekt_klaorie\bin\Debug\Projekt_klaorie.pdb
+F:\Semestr_5\Projekt Kalorycznosc\Projekt_klaorie\bin\Debug\Dapper.dll
+F:\Semestr_5\Projekt Kalorycznosc\Projekt_klaorie\bin\Debug\EntityFramework.dll
+F:\Semestr_5\Projekt Kalorycznosc\Projekt_klaorie\bin\Debug\EntityFramework.SqlServer.dll
+F:\Semestr_5\Projekt Kalorycznosc\Projekt_klaorie\bin\Debug\System.Data.SQLite.dll
+F:\Semestr_5\Projekt Kalorycznosc\Projekt_klaorie\bin\Debug\Dapper.xml
+F:\Semestr_5\Projekt Kalorycznosc\Projekt_klaorie\bin\Debug\EntityFramework.xml
+F:\Semestr_5\Projekt Kalorycznosc\Projekt_klaorie\bin\Debug\EntityFramework.SqlServer.xml
+F:\Semestr_5\Projekt Kalorycznosc\Projekt_klaorie\bin\Debug\System.Data.SQLite.xml
+F:\Semestr_5\Projekt Kalorycznosc\Projekt_klaorie\obj\Debug\Projekt_.6E8A92D9.Up2Date
+F:\Semestr_5\Projekt Kalorycznosc\Projekt_klaorie\obj\Debug\Projekt_klaorie.exe
+F:\Semestr_5\Projekt Kalorycznosc\Projekt_klaorie\obj\Debug\Projekt_klaorie.pdb
+F:\Semestr_5\Projekt Kalorycznosc\Projekt_klaorie\bin\Debug\BouncyCastle.Cryptography.dll
+F:\Semestr_5\Projekt Kalorycznosc\Projekt_klaorie\bin\Debug\itextsharp.dll
+F:\Semestr_5\Projekt Kalorycznosc\Projekt_klaorie\bin\Debug\BouncyCastle.Cryptography.xml
+F:\Semestr_5\Projekt Kalorycznosc\Projekt_klaorie\bin\Debug\itextsharp.xml
+C:\Users\lasin\OneDrive\Pulpit\apka po zmianach\Projekt_klaorie\obj\Debug\Projekt_klaorie.csproj.AssemblyReference.cache
+C:\Users\lasin\OneDrive\Pulpit\apka po zmianach\Projekt_klaorie\obj\Debug\Projekt_klaorie.Form1.resources
+C:\Users\lasin\OneDrive\Pulpit\apka po zmianach\Projekt_klaorie\obj\Debug\Projekt_klaorie.Properties.Resources.resources
+C:\Users\lasin\OneDrive\Pulpit\apka po zmianach\Projekt_klaorie\obj\Debug\Projekt_klaorie.csproj.GenerateResource.cache
+C:\Users\lasin\OneDrive\Pulpit\apka po zmianach\Projekt_klaorie\obj\Debug\Projekt_klaorie.csproj.CoreCompileInputs.cache
+C:\Users\lasin\OneDrive\Pulpit\apka po zmianach\Projekt_klaorie\obj\Debug\Projekt_klaorie.exe
+C:\Users\lasin\OneDrive\Pulpit\apka po zmianach\Projekt_klaorie\obj\Debug\Projekt_klaorie.pdb
+C:\Users\lasin\OneDrive\Pulpit\apka po zmianach\Projekt_klaorie\bin\Debug\x86\sqlite3.dll
+C:\Users\lasin\OneDrive\Pulpit\apka po zmianach\Projekt_klaorie\bin\Debug\x64\sqlite3.dll
+C:\Users\lasin\OneDrive\Pulpit\apka po zmianach\Projekt_klaorie\bin\Debug\Projekt_klaorie.exe.config
+C:\Users\lasin\OneDrive\Pulpit\apka po zmianach\Projekt_klaorie\bin\Debug\Projekt_klaorie.exe
+C:\Users\lasin\OneDrive\Pulpit\apka po zmianach\Projekt_klaorie\bin\Debug\Projekt_klaorie.pdb
+C:\Users\lasin\OneDrive\Pulpit\apka po zmianach\Projekt_klaorie\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\lasin\OneDrive\Pulpit\apka po zmianach\Projekt_klaorie\bin\Debug\Dapper.dll
+C:\Users\lasin\OneDrive\Pulpit\apka po zmianach\Projekt_klaorie\bin\Debug\EntityFramework.dll
+C:\Users\lasin\OneDrive\Pulpit\apka po zmianach\Projekt_klaorie\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lasin\OneDrive\Pulpit\apka po zmianach\Projekt_klaorie\bin\Debug\itextsharp.dll
+C:\Users\lasin\OneDrive\Pulpit\apka po zmianach\Projekt_klaorie\bin\Debug\System.Data.SQLite.dll
+C:\Users\lasin\OneDrive\Pulpit\apka po zmianach\Projekt_klaorie\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\lasin\OneDrive\Pulpit\apka po zmianach\Projekt_klaorie\bin\Debug\Dapper.xml
+C:\Users\lasin\OneDrive\Pulpit\apka po zmianach\Projekt_klaorie\bin\Debug\EntityFramework.xml
+C:\Users\lasin\OneDrive\Pulpit\apka po zmianach\Projekt_klaorie\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lasin\OneDrive\Pulpit\apka po zmianach\Projekt_klaorie\bin\Debug\itextsharp.xml
+C:\Users\lasin\OneDrive\Pulpit\apka po zmianach\Projekt_klaorie\bin\Debug\System.Data.SQLite.xml
+C:\Users\lasin\OneDrive\Pulpit\apka po zmianach\Projekt_klaorie\obj\Debug\Projekt_.6E8A92D9.Up2Date
+C:\Users\witol\Desktop\apka po zmianach\Projekt_klaorie\obj\Debug\Projekt_klaorie.csproj.AssemblyReference.cache
+C:\Users\witol\Desktop\apka po zmianach\Projekt_klaorie\obj\Debug\Projekt_klaorie.Form1.resources
+C:\Users\witol\Desktop\apka po zmianach\Projekt_klaorie\obj\Debug\Projekt_klaorie.Properties.Resources.resources
+C:\Users\witol\Desktop\apka po zmianach\Projekt_klaorie\obj\Debug\Projekt_klaorie.csproj.GenerateResource.cache
+C:\Users\witol\Desktop\apka po zmianach\Projekt_klaorie\obj\Debug\Projekt_klaorie.csproj.CoreCompileInputs.cache
+C:\Users\witol\Desktop\apka po zmianach\Projekt_klaorie\obj\Debug\Projekt_klaorie.exe
+C:\Users\witol\Desktop\apka po zmianach\Projekt_klaorie\obj\Debug\Projekt_klaorie.pdb
+C:\Users\witol\Desktop\apka po zmianach\Projekt_klaorie\bin\Debug\x86\sqlite3.dll
+C:\Users\witol\Desktop\apka po zmianach\Projekt_klaorie\bin\Debug\x64\sqlite3.dll
+C:\Users\witol\Desktop\apka po zmianach\Projekt_klaorie\bin\Debug\Projekt_klaorie.exe.config
+C:\Users\witol\Desktop\apka po zmianach\Projekt_klaorie\bin\Debug\Projekt_klaorie.exe
+C:\Users\witol\Desktop\apka po zmianach\Projekt_klaorie\bin\Debug\Projekt_klaorie.pdb
+C:\Users\witol\Desktop\apka po zmianach\Projekt_klaorie\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\witol\Desktop\apka po zmianach\Projekt_klaorie\bin\Debug\Dapper.dll
+C:\Users\witol\Desktop\apka po zmianach\Projekt_klaorie\bin\Debug\EntityFramework.dll
+C:\Users\witol\Desktop\apka po zmianach\Projekt_klaorie\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\witol\Desktop\apka po zmianach\Projekt_klaorie\bin\Debug\itextsharp.dll
+C:\Users\witol\Desktop\apka po zmianach\Projekt_klaorie\bin\Debug\System.Data.SQLite.dll
+C:\Users\witol\Desktop\apka po zmianach\Projekt_klaorie\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\witol\Desktop\apka po zmianach\Projekt_klaorie\bin\Debug\Dapper.xml
+C:\Users\witol\Desktop\apka po zmianach\Projekt_klaorie\bin\Debug\EntityFramework.xml
+C:\Users\witol\Desktop\apka po zmianach\Projekt_klaorie\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\witol\Desktop\apka po zmianach\Projekt_klaorie\bin\Debug\itextsharp.xml
+C:\Users\witol\Desktop\apka po zmianach\Projekt_klaorie\bin\Debug\System.Data.SQLite.xml
+C:\Users\witol\Desktop\apka po zmianach\Projekt_klaorie\obj\Debug\Projekt_.6E8A92D9.Up2Date
+C:\Users\lasin\OneDrive\Pulpit\apka po zmianach\apka po zmianach\Projekt_klaorie\bin\Debug\x86\sqlite3.dll
+C:\Users\lasin\OneDrive\Pulpit\apka po zmianach\apka po zmianach\Projekt_klaorie\bin\Debug\x64\sqlite3.dll
+C:\Users\lasin\OneDrive\Pulpit\apka po zmianach\apka po zmianach\Projekt_klaorie\bin\Debug\Projekt_klaorie.exe.config
+C:\Users\lasin\OneDrive\Pulpit\apka po zmianach\apka po zmianach\Projekt_klaorie\bin\Debug\Projekt_klaorie.exe
+C:\Users\lasin\OneDrive\Pulpit\apka po zmianach\apka po zmianach\Projekt_klaorie\bin\Debug\Projekt_klaorie.pdb
+C:\Users\lasin\OneDrive\Pulpit\apka po zmianach\apka po zmianach\Projekt_klaorie\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\lasin\OneDrive\Pulpit\apka po zmianach\apka po zmianach\Projekt_klaorie\bin\Debug\Dapper.dll
+C:\Users\lasin\OneDrive\Pulpit\apka po zmianach\apka po zmianach\Projekt_klaorie\bin\Debug\EntityFramework.dll
+C:\Users\lasin\OneDrive\Pulpit\apka po zmianach\apka po zmianach\Projekt_klaorie\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lasin\OneDrive\Pulpit\apka po zmianach\apka po zmianach\Projekt_klaorie\bin\Debug\itextsharp.dll
+C:\Users\lasin\OneDrive\Pulpit\apka po zmianach\apka po zmianach\Projekt_klaorie\bin\Debug\System.Data.SQLite.dll
+C:\Users\lasin\OneDrive\Pulpit\apka po zmianach\apka po zmianach\Projekt_klaorie\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\lasin\OneDrive\Pulpit\apka po zmianach\apka po zmianach\Projekt_klaorie\bin\Debug\Dapper.xml
+C:\Users\lasin\OneDrive\Pulpit\apka po zmianach\apka po zmianach\Projekt_klaorie\bin\Debug\EntityFramework.xml
+C:\Users\lasin\OneDrive\Pulpit\apka po zmianach\apka po zmianach\Projekt_klaorie\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lasin\OneDrive\Pulpit\apka po zmianach\apka po zmianach\Projekt_klaorie\bin\Debug\itextsharp.xml
+C:\Users\lasin\OneDrive\Pulpit\apka po zmianach\apka po zmianach\Projekt_klaorie\bin\Debug\System.Data.SQLite.xml
+C:\Users\lasin\OneDrive\Pulpit\apka po zmianach\apka po zmianach\Projekt_klaorie\obj\Debug\Projekt_klaorie.csproj.AssemblyReference.cache
+C:\Users\lasin\OneDrive\Pulpit\apka po zmianach\apka po zmianach\Projekt_klaorie\obj\Debug\Projekt_klaorie.Form1.resources
+C:\Users\lasin\OneDrive\Pulpit\apka po zmianach\apka po zmianach\Projekt_klaorie\obj\Debug\Projekt_klaorie.Properties.Resources.resources
+C:\Users\lasin\OneDrive\Pulpit\apka po zmianach\apka po zmianach\Projekt_klaorie\obj\Debug\Projekt_klaorie.csproj.GenerateResource.cache
+C:\Users\lasin\OneDrive\Pulpit\apka po zmianach\apka po zmianach\Projekt_klaorie\obj\Debug\Projekt_klaorie.csproj.CoreCompileInputs.cache
+C:\Users\lasin\OneDrive\Pulpit\apka po zmianach\apka po zmianach\Projekt_klaorie\obj\Debug\Projekt_.6E8A92D9.Up2Date
+C:\Users\lasin\OneDrive\Pulpit\apka po zmianach\apka po zmianach\Projekt_klaorie\obj\Debug\Projekt_klaorie.exe
+C:\Users\lasin\OneDrive\Pulpit\apka po zmianach\apka po zmianach\Projekt_klaorie\obj\Debug\Projekt_klaorie.pdb
